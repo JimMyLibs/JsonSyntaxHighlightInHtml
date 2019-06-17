@@ -1,0 +1,15 @@
+pre.JsonSyntaxHighlightInHtml .string {
+    color: #e6db74;
+}
+pre.JsonSyntaxHighlightInHtml .number {
+    color: #ae81ff;
+}
+pre.JsonSyntaxHighlightInHtml .boolean {
+    color: #ae81ff;
+}
+pre.JsonSyntaxHighlightInHtml .null {
+    color: #f92672;
+}
+pre.JsonSyntaxHighlightInHtml .key {
+    color: #a6e22e;
+}

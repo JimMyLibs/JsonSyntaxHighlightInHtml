@@ -1,0 +1,26 @@
+{
+    "name": "jsonsyntaxhighlightinhtml",
+    "version": "1.0.0",
+    "description": "Json SyntaxHighlight In Html，HTML中的JSON语法高亮显示。",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JimMyLibs/JsonSyntaxHighlightInHtml.git"
+    },
+    "keywords": [
+        "json",
+        "SyntaxHighlight",
+        "html",
+        "pre",
+        "Formatter"
+    ],
+    "author": "Jim",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JimMyLibs/JsonSyntaxHighlightInHtml/issues"
+    },
+    "homepage": "https://github.com/JimMyLibs/JsonSyntaxHighlightInHtml#readme"
+}
